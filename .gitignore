@@ -1,0 +1,21 @@
+# Compiled binaries
+proj3
+*.o
+*.exe
+
+# Debug artifacts
+*.dSYM/
+*.dSYM
+
+# Clang/GCC artifacts
+*.a
+*.so
+*.dylib
+
+# VS Code
+.vscode/
+.ccls-cache/
+
+# Temporary files
+*~
+.DS_Store
