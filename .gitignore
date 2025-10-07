@@ -1,5 +1,6 @@
 # Compiled binaries
 proj3
+proj4
 *.o
 *.exe
 
